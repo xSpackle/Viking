@@ -9,3 +9,5 @@ Then I thought that I was just being dumb and decided to do it, but without merg
 I'll have a running blog system later this month that comes from following the free mini bootcamp over at Lambda School.
 
 (This may or may not be copy pasted, with a few words edited.)
+
+Made: 2/21/2017
