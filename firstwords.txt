@@ -1,0 +1,11 @@
+Hey what's up, I'm Kevin.
+
+I'm typing up some stuff here as a way of controlling my thoughts about going through Viking's free "Become a Web Developer Lesson." 
+
+After going across some of their UX steps, they tasked me with doing 3 UX teardowns. I wasn't really down for doing it because it still feel a bit weird not doing something for a grade of sorts.
+
+Then I thought that I was just being dumb and decided to do it, but without merging my answers with the git clone/fork. Especially since I don't know how long it's been since they added someone elses answers. So instead I'll write my notes here and then create my own (local) repo, and push that up into git instead. I like that idea better.
+
+I'll have a running blog system later this month that comes from following the free mini bootcamp over at Lambda School.
+
+(This may or may not be copy pasted, with a few words edited.)
